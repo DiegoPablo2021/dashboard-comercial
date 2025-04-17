@@ -25,6 +25,11 @@ O dashboard apresenta uma série de indicadores importantes para o acompanhament
 - **Excel** (como fonte de dados)
 - **DAX** (para criação de medidas e indicadores)
 
+## 📥 Download do Dashboard
+
+Você pode baixar o arquivo `.pbix` para explorar o dashboard localmente no Power BI:
+👉 [Clique aqui para baixar](./Base-de-vendas.pbi)
+
 ## ▶️ Como Visualizar
 
 Você pode acessar este dashboard de três formas:
