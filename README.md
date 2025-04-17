@@ -27,8 +27,8 @@ O dashboard apresenta uma série de indicadores importantes para o acompanhament
 
 ## 📥 Download do Dashboard
 
-Você pode baixar o arquivo `.pbix` para explorar o dashboard localmente no Power BI:
-👉 [Clique aqui para baixar](./Base-de-vendas.pbi)
+Você pode baixar o arquivo `.pbix` para explorar o dashboard localmente no Power BI:  
+👉 [Clique aqui para baixar](https://github.com/DiegoPablo2021/dashboard-comercial/raw/main/Base-de-vendas.pbix)
 
 ## ▶️ Como Visualizar
 
@@ -50,5 +50,3 @@ Você pode acessar este dashboard de três formas:
 **Diego Pablo de Menezes**  
 📍 Rio Grande do Norte, Brasil  
 🔗 [LinkedIn](https://www.linkedin.com/in/diego-pablo/)
-
----
