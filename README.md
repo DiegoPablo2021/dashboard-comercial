@@ -28,7 +28,7 @@ O dashboard apresenta uma série de indicadores importantes para o acompanhament
 ## 📥 Download do Dashboard
 
 Você pode baixar o arquivo `.pbix` para explorar o dashboard localmente no Power BI:  
-👉 [Clique aqui para baixar](https://github.com/DiegoPablo2021/dashboard-comercial/raw/main/Base-de-vendas.pbix)
+👉 [Clique aqui para baixar]([https://github.com/DiegoPablo2021/dashboard-comercial/raw/main/Base-de-vendas.pbix](https://github.com/DiegoPablo2021/dashboard-comercial/raw/1689a5ab3aaa710f106952eea3305dbd85e0d622/dashboard-comercia.pbix))
 
 ## ▶️ Como Visualizar
 
