@@ -38,7 +38,7 @@ Você pode acessar este dashboard de três formas:
 
 ## 📸 Captura de Tela
 
-![Dashboard Comercial](./74d27f08-d960-4aca-b661-9c142073b930.png)
+![Dashboard Comercial](https://github.com/DiegoPablo2021/dashboard-comercial/blob/main/dashboard-comercial.jpeg)
 
 ## 👨‍💻 Autor
 
